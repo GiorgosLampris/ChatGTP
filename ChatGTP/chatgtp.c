@@ -1,10 +1,6 @@
 /*  Gewrgios Lampris
-    AM: 2022202200105
-    dit22105@go.uop.gr
 
     Leonidas Kalafatas
-    AM: 2022202200063
-    dit22063@go.uop.gr
 */
 
 #include <stdio.h>
